@@ -65,6 +65,6 @@ while distance < wanted:
     day = day + 1
 print("день достижения цели: ", day)
 
-#Спасибо!
+#Спасибо!!!
 
 
